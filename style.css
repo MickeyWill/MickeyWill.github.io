@@ -1,0 +1,31 @@
+.maclasse1:hover{
+    
+    font-family: 'Permanent Marker', cursive;
+    font-size: 50px;
+    text-align: right;
+}
+.maclasse2{
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+}
+.maclasse3{
+    font-family: 'Finger Paint', cursive;
+}
+.maclasse4{
+    font-family: 'Allura', cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 100px;   
+}
+#final{
+    background-color: blue;
+    padding: 20px 20px;
+    margin: 20px 20px;
+}
+body{
+    width: 800px;
+    margin: 0;
+}
+p{
+    
+}
